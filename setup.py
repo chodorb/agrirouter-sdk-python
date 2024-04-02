@@ -28,10 +28,10 @@ setup(
         'certifi~=2021.5.30',
         'cffi~=1.14.6',
         'charset-normalizer~=2.0.6',
-        'cryptography~=3.2.1',
+        'cryptography==3.2.1',
         'idna~=3.2',
         'pycparser~=2.20',
-        'requests~=2.31.0',
+        'requests==2.31.0',
         'urllib3~=1.26.7',
         'paho-mqtt~=1.5.1',
         'protobuf~=3.18.0'
